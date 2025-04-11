@@ -1,0 +1,10 @@
+{
+  "app_name": "AutoGen MCP Demo",
+  "version": "1.0.0",
+  "description": "Demo application for GitHub MCP integration",
+  "author": "Sujith Srinivas",
+  "settings": {
+    "debug": true,
+    "log_level": "info"
+  }
+}

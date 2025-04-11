@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Item One",
+    "description": "This is the first sample item",
+    "created_at": "2023-01-01"
+  },
+  {
+    "id": 2,
+    "name": "Item Two",
+    "description": "This is the second sample item",
+    "created_at": "2023-01-02"
+  },
+  {
+    "id": 3,
+    "name": "Item Three",
+    "description": "This is the third sample item",
+    "created_at": "2023-01-03"
+  }
+]
